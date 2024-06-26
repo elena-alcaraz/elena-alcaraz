@@ -10,7 +10,7 @@ Always seeking and discovering new programming languages, interested in all area
 
 HTML5 | CSS3 | JavaScript | React | Git, Github | FreeDB | Node JS, Express JS | MySQL, MySQL Workbench | MongoDB, Mongo Cloud | Swagger | Render
 
-## 🌀 PROJECTS
+## 🌀 SOME PROJECTS
 - **Frontend**
 
   HTML
