@@ -10,6 +10,16 @@ Always seeking and discovering new programming languages, interested in all area
 
 HTML5 | CSS3 | JavaScript | React | Git, Github | FreeDB | Node JS, Express JS | MySQL, MySQL Workbench | MongoDB, Mongo Cloud | Swagger | Render
 
+## 💫 MORE
+
+- 🔭 I’m currently developing a website of a fashion label
+- 🌱 I’m currently learning .NET and Vue.js
+- 👯 I’m looking to collaborate on new projects 
+- 💬 Ask me about anything you need to know
+- 📫 How to reach me: elena.alcaraz.martin@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm also a violinist 🎻
+
 ## 🌀 SOME PROJECTS
 - **Frontend**
 
@@ -29,16 +39,6 @@ HTML5 | CSS3 | JavaScript | React | Git, Github | FreeDB | Node JS, Express JS |
 - **Backend**
   + Link: https://github.com/Adalab/modulo-4-evaluacion-final-bpw-elena-alcaraz
 
-
-## 💫 MORE
-
-- 🔭 I’m currently developing a website of a fashion label
-- 🌱 I’m currently learning .NET and Vue.js
-- 👯 I’m looking to collaborate on new projects 
-- 💬 Ask me about anything you need to know
-- 📫 How to reach me: elena.alcaraz.martin@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm also a violinist 🎻
 
 
 
