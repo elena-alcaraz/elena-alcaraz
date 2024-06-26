@@ -1,4 +1,3 @@
-![header2](https://github.com/elena-alcaraz/elena-alcaraz/assets/156465486/2dc05a87-b3c9-4293-8409-82babea0bd50)
 ## Junior Full-stack Developer 👩🏻‍💻
 
 Hi! I'm Elena 👋🏼
