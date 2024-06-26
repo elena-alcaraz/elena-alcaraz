@@ -1,16 +1,44 @@
-## Hi there 👋
+## Junior Full-stack Developer 👩🏻‍💻
 
-<!--
-**elena-alcaraz/elena-alcaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Elena 👋🏼
 
-Here are some ideas to get you started:
+I'm an enthusiastic developer with experience in the music industry moving into technology. Strong background in HTML, CSS, JavaScript, React and MySQL. Developing web skills and implementing efficient and scalable solutions. Able to adapt easily to new technologies and tasks and learn quickly. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always seeking and discovering new programming languages, interested in all areas of front-end and back-end. Motivated by challenges and a strong desire to contribute to the success of innovative and collaborative projects.
+
+## 🛠️ SKILLS
+
+HTML5 | CSS3 | JavaScript | React | Git, Github | FreeDB | Node JS, Express JS | MySQL, MySQL Workbench | MongoDB, Mongo Cloud | Swagger | Render
+
+## 🌀 PROJECTS
+- **Frontend**
+
+  HTML
+  + Link: https://github.com/Adalab/modulo-1-evaluacion-final-elena-alcaraz
+  + Link: https://github.com/ellisoalgo/project-grupo-2
+
+  JavaScript
+  + https://github.com/Adalab/modulo-2-evaluacion-final-elena-alcaraz
+  + https://github.com/elena-alcaraz/project-promo-x-module-2-team-2
+  
+  React
+  + https://github.com/Adalab/modulo-3-evaluacion-final-elena-alcaraz
+  + https://github.com/elena-alcaraz/promo-X-module-3-pair-2-grogu-game
+  + https://github.com/Guillotdiana/project-promo-x-module-4-team-4
+
+- **Backend**
+  + https://github.com/Adalab/modulo-4-evaluacion-final-bpw-elena-alcaraz
+
+
+## 💫 MORE
+
+- 🔭 I’m currently developing a website of a fashion label
+- 🌱 I’m currently learning .NET and Vue.js
+- 👯 I’m looking to collaborate on new projects 
+- 💬 Ask me about anything you need to know
+- 📫 How to reach me: elena.alcaraz.martin@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm also a violinist 🎻
+
+
+
