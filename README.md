@@ -25,7 +25,8 @@ HTML5 | CSS3 | JavaScript | React | Git, Github | FreeDB | Node JS, Express JS |
 
   HTML
   + Link: https://elena-alcaraz.github.io/anonymous-proxy-co-landing-page/
-  + Link: https://github.com/ellisoalgo/project-grupo-2
+  + Link: https://elena-alcaraz.github.io/spice-developers/
+
 
   JavaScript
   + Link: https://elena-alcaraz.github.io/cocktail-discovery/
